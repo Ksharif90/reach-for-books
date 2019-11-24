@@ -1,8 +1,21 @@
 .navbar {
-	background-color: blue 
+	background-color:transparent;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size:15px;
+
+}
+.mission{
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size:15px;
+	float:left;
+	position:left;
+}
+
+
 }
 /* Make the image fully responsive */
 .carousel-inner img {
 	width: 100%;
 	height: 100%;
+	float:center;
 }
